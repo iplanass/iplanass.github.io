@@ -9,23 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
-======
-I am a behavioural ecologist working at the interface of theoretical ecology and complex systems science. I am currently a postdoctoral researcher at the RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS, Japan) and a part-time lecturer at the University of Tokyo. My research combines tools from multiple disciplines to uncover the drivers of collective phenomena and to identify the mechanisms that sustain diversity at group and ecosystem levels. Along the way, research has taken me through Spain, Ecuador, Perú, France, Belgium, the USA, England, and Japan.
+I am a behavioural ecologist working at the interface of theoretical ecology and complex systems science. My research combines tools from multiple disciplines to uncover the drivers of collective phenomena and to identify the mechanisms that sustain diversity at group and ecosystem levels. 
 
-Education
-======
-* PhD in Science. Université libre de Bruxelles, Belgium (2017)
-* MSc in Biodiversity. Universitat de Barcelona, Spain (2011)
-* BSc in Biology. Universitat de Girona, Spain (with internship at Université Toulouse III – Paul Sabaiter, France) (2009)
+I graduated in Biology at the Universitat de Girona and later specialised in Biodiversity at the Universitat de Barcelona. I completed a PhD in Science at the Université libre de Bruxelles. Along the way, I've been fortunate to take part in the Marie Skłodowska-Curie and JSPS Postdoctoral programmes, to be involved in a National Geographic project, and to follow research paths that have taken me through Spain, Ecuador, Peru, France, Belgium, the USA, England, and Japan.
 
-Work experience
-======
-* 2022 – 2025 Assistant Professor at Tokyo Metropolitan University, Graduate School of Science, Japan.
-* 2021 – 2022 Marie Skłodowska-Curie Postdoctoral Fellow at University of Bristol, UK. 
-* 2020 – 2021 – National Geographic Explorer and visiting researcher at Tokyo Metropolitan University, Japan.
-* 2018 – 2020 – JSPS Postdoc researcher at Tokyo Metropolitan University, Japan.
-* 2017 – 2018 –  Temporary Research Associate on an UE-funded Project, Université libre de Bruxelles, Belgium.
+I am currently a postdoctoral researcher at the RIKEN Center for Interdisciplinary Theoretical and Mathematical Sciences (iTHEMS, Japan) and a part-time lecturer at the University of Tokyo. 
   
 Short list of conferences
 ======
@@ -40,6 +28,7 @@ Short list of conferences
 
 Teaching and student supervision
 ======
+* Worked as assistant professor during 3 years.
 * Experience teaching lectures in statistics, ecology, evolution, and animal behaviour.
 * Experience supervising undergraduate and graduate students.
 
