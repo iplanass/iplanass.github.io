@@ -28,7 +28,7 @@ Short list of conferences
 
 Teaching and student supervision
 ======
-* Worked as assistant professor during 3 years.
+* Worked as an assistant professor for 3 years.
 * Experience teaching lectures in statistics, ecology, evolution, and animal behaviour.
 * Experience supervising undergraduate and graduate students.
 
