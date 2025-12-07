@@ -40,7 +40,8 @@ Short list of conferences
 
 Teaching and student supervision
 ======
-I teached lectures in statistics, ecology and evolution, and supervised several undergraduate and graduate students.
+* Experience teaching lectures in statistics, ecology, evolution, and animal behaviour.
+* Experience supervising undergraduate and graduate students.
 
 [Publications](/publications/)
 ======
