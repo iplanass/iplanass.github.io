@@ -6,10 +6,9 @@ collection: portfolio
 
 Anthropogenic activity threatens biodiversity through climate change, habitat fragmentation, and increasing frequency and scale of disturbance. Metacommunity models have proved valuable to understand how such disturbances shape community structure and species coexistence (biodiversity). In this context, I develop agent-based simulations and mathematical models combining several biodiversity theories to better understand how the effects of anthropogenic disturbances on biodiversity. The final goal is to develop a predictive theoretical framework that can help inform biodiversity management decisions with consequences for species conservation.
 
-
 <br/>
 <p style="text-align: center;">
     <img src='/images/oikos_im.png'>
 </p>
 <br/>
-
+Image from Planas-Sitjà et al. 2023 (Oikos) - Agent-based simulations to understand how environment shapes the evolution of reproductive strategies when considering co-evolution of traits. 
