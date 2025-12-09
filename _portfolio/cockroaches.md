@@ -1,6 +1,6 @@
 ---
 title: "Collective behaviour in cockroaches"
-excerpt: "I investigate the relative role of animal personality variation and social interactions in collective decisions and hierarchy formation in cockroaches<br/><p style="text-align: center;"><img src='/images/agg_roaches.gif' style= 'width:50%'></p>"
+excerpt: "I investigate the relative role of animal personality variation and social interactions in collective decisions and hierarchy formation in cockroaches<br/><img src='/images/agg_roaches.gif' style= 'width:50%'>"
 collection: portfolio
 ---
 
