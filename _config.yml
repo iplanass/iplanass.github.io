@@ -23,7 +23,7 @@ repository               : "iplanass/iplanass.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IPS.png"
+  avatar           : "IPS.jpg"
   name             : "Isaac Planas-Sitjà"
   pronouns         : # example: "she/her"  
   bio              : "Behavioural ecologist, interested in complex systems & non-linear phenomena"
