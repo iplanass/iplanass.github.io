@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "IPS"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "IPS"
+description              : &description "Planas-Sitja's research profile"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://iplanass.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -30,7 +30,7 @@ author:
   location         : "Saitama, Japan"
   employer         : "iTHEMS, RIKEN"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -227,7 +227,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -273,10 +273,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
