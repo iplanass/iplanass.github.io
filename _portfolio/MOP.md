@@ -1,6 +1,6 @@
 ---
 title: "Exploring the mechanisms enhancing biodiversity"
-excerpt: "I investigate how temporal and spatial anthropogenic factors (habitat loss, habitat autocorrelation, and disturbance) shape species coexistence<br/><img src='/images/evo_model.gif'>"
+excerpt: "I investigate how temporal and spatial anthropogenic factors (habitat loss, habitat autocorrelation, and disturbance) shape species coexistence<br/><img src='/images/evo_model.gif' style=width:50%>"
 collection: portfolio
 ---
 
