@@ -12,14 +12,14 @@ main:
     url: /publications/
     #~ url: https://scholar.google.com/citations?user=7WTc0h4AAAAJ&hl=en&oi=ao
     
-  - title: "Talks"
-    url: /talks/    
+  #~ - title: "Talks"
+    #~ url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #~ - title: "Teaching"
+    #~ url: /teaching/    
     
-  #~ - title: "Portfolio"
-    #~ url: /portfolio/
+  - title: "Research"
+    url: /research/
         
   #~ - title: "Blog Posts"
     #~ url: /year-archive/
@@ -30,5 +30,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #~ - title: "Guide"
+    #~ url: /markdown/
