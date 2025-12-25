@@ -3,7 +3,6 @@ title: "Exploring the mechanisms enhancing biodiversity"
 excerpt: "I investigate how temporal and spatial anthropogenic factors (habitat loss, habitat autocorrelation, and disturbance) shape species coexistence<br/><img src='/images/evo_model.gif' style='width:50%'>"
 collection: portfolio
 ---
-<div style="text-align: justify; hyphens:auto;">
 Anthropogenic activity threatens biodiversity through climate change, habitat fragmentation, and increasing frequency and scale of disturbance. Metacommunity models have proved valuable to understand how such disturbances shape community structure and species coexistence (biodiversity). In this context, I develop agent-based simulations and mathematical models combining several biodiversity theories to better understand how the effects of anthropogenic disturbances on biodiversity. The final goal is to develop a predictive theoretical framework that can help inform biodiversity management decisions with consequences for species conservation.
 
 <br/>
@@ -12,4 +11,3 @@ Anthropogenic activity threatens biodiversity through climate change, habitat fr
 </p>
 <br/>
 Image from Planas-Sitjà et al. 2023 (Oikos) - Agent-based simulations to understand how environment shapes the evolution of reproductive strategies when considering co-evolution of traits. 
-</div>
