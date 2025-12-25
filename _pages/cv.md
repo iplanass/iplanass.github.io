@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align: justify; hyphens:auto;">
 I am a behavioural ecologist working at the interface of theoretical ecology and complex systems science. My research combines tools from multiple disciplines to uncover the drivers of collective phenomena and to identify the mechanisms that sustain diversity at group and ecosystem levels. 
 
 I graduated in Biology at the Universitat de Girona and later specialised in Biodiversity at the Universitat de Barcelona. I completed a PhD in Science at the Université libre de Bruxelles. Along the way, I've been fortunate to take part in the Marie Skłodowska-Curie and JSPS Postdoctoral programmes, to be involved in a National Geographic project, and to follow research paths that have taken me through Spain, Ecuador, Peru, France, Belgium, the USA, England, and Japan.
@@ -34,5 +35,5 @@ Teaching and student supervision
 
 [Publications](/publications/)
 ======
-  
+</div>
 
