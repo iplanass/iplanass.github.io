@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Website still in progress...
+Website still under construction...
 
