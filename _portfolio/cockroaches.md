@@ -11,7 +11,7 @@ Collective behaviour has fascinated mankind since the beginning of the modern ag
 </p>
 <br/>
 
-To facilitate the study of animal behaviour, I started developping tools to automate image analysis and response delivery in collaboration with an international team of researchers. If you are interested, check out our *TracktorLive* project, click [here](https://github.com/pminasandra/tracktorlive) for more information. It has a bunch of cool applications that can be useful to facilitate and automatise behavioral and ecological research in the field or in the laboratory. It allows to display plugs in real time, records went in in the it the israeli the and good
+To facilitate the study of animal behaviour, I started developping tools to automate image analysis and response delivery in collaboration with an international team of researchers. If you are interested, check out our *TracktorLive* project, click [here](https://github.com/pminasandra/tracktorlive) for more information. This real-time tracker has a bunch of cool applications that can be useful to facilitate behavioral and ecological research. It allows to analyse data on real-time&#8212;YDELO (you don't even look once)&#8212;and display plots or count interactions, record only when individuals are in proximity, or trigger a mechanical stimulus via Arduino depending on individual position, speed or direction; such as releasing a decoy predator or opening a feeder. 
 
 <br/>
 <p style="text-align: center;">
