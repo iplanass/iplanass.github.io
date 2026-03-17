@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 ---
 
+Minasandra P, Sridhar VH, Roche DG & Planas-Sitjà I (**2026**). *TracktorLive: an integrated real-time object tracking and response system*. 
+**bioRxiv**.
+DOI: <https://doi.org/10.64898/2026.03.12.711471>
+
+---
+
+Quitián M, Planas-Sitjà I, Morooka M, Traveset A, Tierney S & Cronin AL (**2026**). *Co-invasional disruptions of island pollination networks are dominated by predator effects.* 
+**Conservation Biology**.
+DOI: no link yet.
+
+---
+
+Satoh A, Planas-Sitjà I, Cronin AL & Mizumoto N (**2026**). *Variation in soldier investment is linked to the evolution of termite soldier defense strategies.* 
+**Evolutionary Ecology**, 40, 21.
+DOI: <https://doi.org/10.1007/s10682-026-10386-3>
+
+---
+
 Planas-Sitjà I & Ioannou CC (**2025**).  
 *State–behaviour feedbacks between boldness and food intake shape escape responses in fish (Gasterosteus aculeatus).*  
 **Communications Biology**, 8, 227.  
