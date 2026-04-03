@@ -4,21 +4,22 @@ title: "Publications"
 permalink: /publications/
 ---
 
+Planas-Sitjà I, Iritani R, Cronin AL (**2026**). *Disentangling the interactive effects of anthropogenic disturbances on biodiversity*.
+**arXiv**
+DOI: <https://arxiv.org/abs/2603.29116>
+
 Minasandra P, Sridhar VH, Roche DG & Planas-Sitjà I (**2026**). *TracktorLive: an integrated real-time object tracking and response system*. 
 **bioRxiv**.
 DOI: <https://doi.org/10.64898/2026.03.12.711471>
-
----
 
 Quitián M, Planas-Sitjà I, Morooka M, Traveset A, Tierney S & Cronin AL (**2026**). *Co-invasional disruptions of island pollination networks are dominated by predator effects.* 
 **Conservation Biology**.
 DOI: no link yet.
 
----
-
 Satoh A, Planas-Sitjà I, Cronin AL & Mizumoto N (**2026**). *Variation in soldier investment is linked to the evolution of termite soldier defense strategies.* 
 **Evolutionary Ecology**, 40, 21.
 DOI: <https://doi.org/10.1007/s10682-026-10386-3>
+\* *Article selected as a Featured Paper in Evolutionary Ecology*.
 
 ---
 
@@ -75,7 +76,7 @@ DOI: <https://doi.org/10.1007/s00040-020-00791-4>
 Calvo-Martín M, Nicolis SC, Planas-Sitjà I, de Biseau JC & Deneubourg JL (**2019**).  
 *Conflictual influence of humidity during shelter selection of the American cockroach (Periplaneta americana).*  
 **Scientific Reports**, 9, 20331.  
-DOI: <https://doi.org/10.1038/s41598-019-56504-w>  
+DOI: <https://doi.org/10.1038/s41598-019-56504-w> 
 
 Trevarthen A, Kappel S, Roberts C, Finnegan E, Paul E, Planas-Sitjà I, Mendl M & Fureix C (**2019**).  
 *Measuring affect-related cognitive bias: do mice in opposite affective states react differently to negative and positive stimuli?*  
