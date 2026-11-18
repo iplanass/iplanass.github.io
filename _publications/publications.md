@@ -4,9 +4,13 @@ title: "Publications"
 permalink: /publications/
 ---
 
+Liprado E, Planas-Sitjà I, Okamura Y, Cronin AL (**2026**). *A novel supergene regulates alternative dispersal morphs without variation in social organisation in the ant Myrmecina nipponica*. **Biology Letters**. 
+DOI: <https://doi.org/10.1098/rsbl.2026.0475>
+
 Planas-Sitjà I, Iritani R, Cronin AL (**2026**). *Disentangling the interactive effects of anthropogenic disturbances on biodiversity*.
-**arXiv**
-DOI: <https://arxiv.org/abs/2603.29116>
+**Ecography**, e08812.
+DOI: <https://doi.org/10.1002%2Fecog.08812>
+arXiv: <https://arxiv.org/abs/2603.29116>
 
 Minasandra P, Sridhar VH, Roche DG & Planas-Sitjà I (**2026**). *TracktorLive: an integrated real-time object tracking and response system*. 
 **bioRxiv**.
@@ -14,7 +18,7 @@ DOI: <https://doi.org/10.64898/2026.03.12.711471>
 
 Quitián M, Planas-Sitjà I, Morooka M, Traveset A, Tierney S & Cronin AL (**2026**). *Co-invasional disruptions of island pollination networks are dominated by predator effects.* 
 **Conservation Biology**.
-DOI: no link yet.
+DOI: <https://doi.org/10.1111/cobi.70304>
 
 Satoh A, Planas-Sitjà I, Cronin AL & Mizumoto N (**2026**). *Variation in soldier investment is linked to the evolution of termite soldier defense strategies.* 
 **Evolutionary Ecology**, 40, 21.
